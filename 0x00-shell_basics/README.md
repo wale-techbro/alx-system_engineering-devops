@@ -1,1 +1,1 @@
-Dir contains script files
+Script files
