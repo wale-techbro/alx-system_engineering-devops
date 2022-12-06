@@ -1,1 +1,1 @@
-This is a Readme for permission scripts
+This directory contains redirection scripts
